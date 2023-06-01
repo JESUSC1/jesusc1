@@ -8,11 +8,8 @@
 </p>
 <!-- Paragraph element centered with a link to a GitHub profile and an image with multiple lines of text -->
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
-<!-- Image aligned to the left displaying a visitor badge -->
-
 <h1 align="center"></h1>
 <!-- Empty heading 1 element centered -->
 
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=zeeid&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=tokyonight" />
 <!-- Image aligned to the left displaying GitHub statistics -->
