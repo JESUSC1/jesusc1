@@ -17,14 +17,11 @@
 <!-- Image aligned to the right displaying the top programming languages used -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10" width="350" height="150">
 
-<img height="150" />
-<!-- Image tag with the height attribute set to 150 -->
+<img align="left" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50px" height="50px">
+<!-- Image aligned to the left with source pointing to a GIF -->
 
-<br><br>
-<!-- Line breaks -->
-
-<img align="left" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="450px" height="300px" />
-<!-- Image aligned to the right with alt text and source pointing to a GIF -->
+<h2 align="left" font-weight="bold">About me</h2>
+<!-- Heading 2 element aligned to the left with a font-weight attribute set to bold -->
 
 <br><br>
 <!-- Line breaks -->
