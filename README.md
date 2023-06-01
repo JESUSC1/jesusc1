@@ -1,26 +1,29 @@
 <h1 align="center"> Jesus Cantu Jr. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!-- Heading 1 element centered with the name "Jesus Cantu Jr." and an image -->
 
 <p align="center">
   <a href="https://github.com/fairyland0926">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Researcher;Data%20Scientist;Software%20Engineer;Data%20Engineer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=550&height=80&color=2A9D2A&vCenter=true&size=45%22">
   </a>
 </p>
-<!-- Paragraph element centered with a link to a GitHub profile and an image with multiple lines of text -->
 
 <h1 align="center"></h1>
-<!-- Empty heading 1 element centered -->
 
-<!-- Image aligned to the left displaying GitHub statistics -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" width="350" height="150">
+<!-- GitHub statistics section -->
+<div style="display: flex; justify-content: center;">
+  <!-- Image aligned to the left displaying GitHub statistics -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" width="350" height="150">
+  </div>
 
-<!-- Image aligned to the right displaying the top programming languages used -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10" width="350" height="150">
+  <!-- Image aligned to the right displaying the top programming languages used -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10" width="350" height="150">
+  </div>
+</div>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<!-- Heading 2 element with the text "𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭" -->
 
-<table>
+<table align="center">
   <tr>
     <!-- First row of images -->
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-5-1175246.png?raw=true" width="200"></td>
@@ -44,6 +47,3 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/extjs-458279.png?raw=true" width="200"></td>
   </tr>
 </table>
-<!-- Table containing two rows of images -->
-
-<br/>
