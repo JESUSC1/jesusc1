@@ -27,39 +27,140 @@
 <table>
   <tr>
     <!-- First row of images -->
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" width="200"></td>
-    <td><img src="https://www.r-project.org/logo/Rlogo.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/bash-1-226007.png" width="200"></td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="200">
+      <br>
+      <span>Python</span>
+    </td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" width="200">
+      <br>
+      <span>SQL</span>
+    </td>
+    <td>
+      <img src="https://www.r-project.org/logo/Rlogo.png" width="200">
+      <br>
+      <span>R</span>
+    </td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" width="200">
+      <br>
+      <span>C#</span>
+    </td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="200">
+      <br>
+      <span>Java</span>
+    </td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/bash-1-226007.png" width="200">
+      <br>
+      <span>Bash</span>
+    </td>
   </tr>
   <tr>
     <!-- Second row of images -->
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/tensorflow-2-1175019.png" width="200"></td>
-    <td><img src="https://www.pytorch.org/assets/images/pytorch-logo.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/scikit-learn-3-1173394.png" width="200"></td>
-    <td><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="200"></td>
-    <td><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="200"></td>
-    <td><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="200"></td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/tensorflow-2-1175019.png" width="200">
+      <br>
+      <span>TensorFlow</span>
+    </td>
+    <td>
+      <img src="https://www.pytorch.org/assets/images/pytorch-logo.png" width="200">
+      <br>
+      <span>PyTorch</span>
+    </td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/scikit-learn-3-1173394.png" width="200">
+      <br>
+      <span>Scikit-Learn</span>
+    </td>
+    <td>
+      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="200">
+      <br>
+      <span>Pandas</span>
+    </td>
+    <td>
+      <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="200">
+      <br>
+      <span>Matplotlib</span>
+    </td>
+    <td>
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="200">
+      <br>
+      <span>Seaborn</span>
+    </td>
   </tr>
   <tr>
     <!-- Third row of images -->
-    <td><img src="https://avatars.githubusercontent.com/u/26351522?s=200&v=4" width="200"></td>
-    <td><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="200"></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width="200"></td>
-    <td><img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" width="200"></td>
-    <td><img src="https://phoenix.apache.org/images/phoenix-logo-3d-50.png" width="200"></td>
-    <td><img src="https://hive.apache.org/images/logo.png" width="200"></td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/26351522?s=200&v=4" width="200">
+      <br>
+      <span>Shiny</span>
+    </td>
+    <td>
+      <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="200">
+      <br>
+      <span>PostgreSQL</span>
+    </td>
+    <td>
+      <img src="https://images.rheinwerk-verlag.de/bilder/b_9783836230857_4.png" width="200">
+      <br>
+      <span>SQLAlchemy</span>
+    </td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" width="200">
+      <br>
+      <span>MongoDB</span>
+    </td>
+    <td>
+      <img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" width="200">
+      <br>
+      <span>HBase</span>
+    </td>
+    <td>
+      <img src="https://phoenix.apache.org/images/phoenix-logo.png" width="200">
+      <br>
+      <span>Phoenix</span>
+    </td>
   </tr>
   <tr>
     <!-- Fourth row of images -->
-    <td><img src="https://impala.apache.org/img/impala.png" width="200"></td>
-    <td><img src="https://spark.apache.org/images/spark-logo-trademark.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" width="200"></td>
-    <td><img src="https://www.gstatic.com/devrel-devsite/prod/vac6c146aea38f1bfcae307b4a70e5ff3d5b3d67823d8f3c763a34e6c3e6ebf3a/cloud/images/cloud-logo.svg" width="200"></td>
-    <td><img src="https://miro.medium.com/max/500/1*f8yvKwVCEPJ5jT8hNqjQzQ.png" width="200"></td>
-    <td><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="200"></td>
+    <td>
+      <img src="https://hive.apache.org/images/hive_logo_medium.png" width="200">
+      <br>
+      <span>Hive</span>
+    </td>
+    <td>
+      <img src="https://impala.apache.org/img/impala_logo.svg" width="200">
+      <br>
+      <span>Impala</span>
+    </td>
+    <td>
+      <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="200">
+      <br>
+      <span>Spark</span>
+    </td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-1869025-1583149.png" width="200">
+      <br>
+      <span>AWS</span>
+    </td>
+    <td>
+      <img src="https://www.gstatic.com/devrel-devsite/prod/vac6c146aea38f1bfcae307b4a70e5ff3d5b3d67823d8f3c763a34e6c3e6ebf3a/cloud/images/cloud-logo.svg" width="200">
+      <br>
+      <span>GCS</span>
+    </td>
+    <td>
+      <img src="https://miro.medium.com/max/500/1*f8yvKwVCEPJ5jT8hNqjQzQ.png" width="200">
+      <br>
+      <span>Databricks</span>
+    </td>
+    <td>
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="200">
+      <br>
+      <span>Git</span>
+    </td>
   </tr>
 </table>
 <!-- Table containing four rows of images -->
