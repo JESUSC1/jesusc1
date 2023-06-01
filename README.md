@@ -23,7 +23,7 @@
 <br><br>
 <!-- Line breaks -->
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="450px" height="300px" />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="450px" height="300px" />
 <!-- Image aligned to the right with alt text and source pointing to a GIF -->
 
 <br><br>
