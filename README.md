@@ -28,32 +28,32 @@
   <tr>
     <!-- First row of images -->
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="200">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="100">
       <br>
       <span>Python</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" width="200">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" width="100">
       <br>
       <span>SQL</span>
     </td>
     <td>
-      <img src="https://www.r-project.org/logo/Rlogo.png" width="200">
+      <img src="https://www.r-project.org/logo/Rlogo.png" width="100">
       <br>
       <span>R</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" width="200">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" width="100">
       <br>
       <span>C#</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="200">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="100">
       <br>
       <span>Java</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/bash-1-226007.png" width="200">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/bash-226005.png" width="100">
       <br>
       <span>Bash</span>
     </td>
