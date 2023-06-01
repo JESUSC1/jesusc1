@@ -14,7 +14,7 @@
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" />
 <!-- Image aligned to the left displaying GitHub statistics -->
 
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeid&layout=compact&theme=aura&langs_count=9" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=aura&langs_count=9" />
 <!-- Image aligned to the right displaying the top programming languages used -->
 
 <img height="150" />
