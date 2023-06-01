@@ -61,32 +61,32 @@
   <tr>
     <!-- Second row of images -->
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/tensorflow-2-1175019.png" width="200">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/tensorflow-3521428-2944877.png" width="50" height="50">
       <br>
       <span>TensorFlow</span>
     </td>
     <td>
-      <img src="https://www.pytorch.org/assets/images/pytorch-logo.png" width="200">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/pytorch-3521429-2944878.png" width="50" height="50">
       <br>
       <span>PyTorch</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/scikit-learn-3-1173394.png" width="200">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/scikit-learn-3629127-3031840.png" width="50" height="50">
       <br>
       <span>Scikit-Learn</span>
     </td>
     <td>
-      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="200">
+      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="50" height="50">
       <br>
       <span>Pandas</span>
     </td>
     <td>
-      <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="200">
+      <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50" height="50">
       <br>
       <span>Matplotlib</span>
     </td>
     <td>
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="200">
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50" height="50">
       <br>
       <span>Seaborn</span>
     </td>
