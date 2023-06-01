@@ -61,7 +61,7 @@
   <tr>
     <!-- Second row of images -->
     <td>
-      <img src="https://cdnjs.cloudflare.com/ajax/libs/tensorflow/4.6.0/tf.min.js" width="100" height="100">
+      <img src="tensorflow-tf.svg" width="100" height="100">
       <br>
       <span>TensorFlow</span>
     </td>
