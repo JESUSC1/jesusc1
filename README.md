@@ -19,13 +19,7 @@
 </style>
 
 <!-- Image aligned to the left displaying GitHub statistics -->
-<img align="left" class="github-stats" src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" />
+<img align="left" class="github-stats" src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" width="350" height="150">
 
 <!-- Image aligned to the right displaying the top programming languages used -->
-<img align="right" class="github-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10" />
-
-<img height="150" />
-<!-- Empty image -->
-
-<br><br>
-<!-- Line breaks -->
+<img align="right" class="github-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10" width="350" height="150">
