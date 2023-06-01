@@ -22,23 +22,44 @@
 </div>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<!-- Heading 2 element with the text "𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭" -->
 
-<table align="center">
+<table>
   <tr>
     <!-- First row of images -->
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-5-1175246.png?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" width="200"></td>
-    <td><img src="https://camo.githubusercontent.com/91c7c8fed6e4e9ccbb25bc941030bc604ea787c09ca2569377ed4d4840872a73/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6a71756572792d372d313137353135322e706e67?raw=true" width="200"></td>
-    <td><img src="https://camo.githubusercontent.com/63a0652105f53ca10fd7bb584ec3326ffda6c6988ca944bb21f6ba0d764bf8be/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f68746d6c352d34302d313137353139332e706e67?raw=true" width="200"></td>
-    <td><img src="https://camo.githubusercontent.com/16243b90ca0de67f1183e67f41fc6383ca998d81c3dd7166b32eda4db307f919/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f637373332d31312d313137353233392e706e67" width="200"></td>
-    <td><img src="https://camo.githubusercontent.com/98c835566bae35eab51c05d004bf08bdbcb287186f492e1aeb20fa37f71ca7ca/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f736173732d31332d313137353039322e706e67" width="200"></td>
-    <td><img src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" width="200"></td>
+    <td><img src="https://www.r-project.org/logo/Rlogo.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/bash-1-226007.png" width="200"></td>
   </tr>
   <tr>
     <!-- Second row of images -->
-    <td><img src="https://camo.githubusercontent.com/7dd0ebf7a227b0f848f30a3dbd647a682075031e1010b19a7a41e366d281ce2b/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f626f6f7473747261702d3232363037372e706e67?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/sourcetree-2-1175090.png?raw=true" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/tensorflow-2-1175019.png" width="200"></td>
+    <td><img src="https://www.pytorch.org/assets/images/pytorch-logo.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/scikit-learn-3-1173394.png" width="200"></td>
+    <td><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="200"></td>
+    <td><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="200"></td>
+    <td><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="200"></td>
+  </tr>
+  <tr>
+    <!-- Third row of images -->
+    <td><img src="https://avatars.githubusercontent.com/u/26351522?s=200&v=4" width="200"></td>
+    <td><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="200"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width="200"></td>
+    <td><img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" width="200"></td>
+    <td><img src="https://phoenix.apache.org/images/phoenix-logo-3d-50.png" width="200"></td>
+    <td><img src="https://hive.apache.org/images/logo.png" width="200"></td>
+  </tr>
+  <tr>
+    <!-- Fourth row of images -->
+    <td><img src="https://impala.apache.org/img/impala.png" width="200"></td>
+    <td><img src="https://spark.apache.org/images/spark-logo-trademark.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" width="200"></td>
+    <td><img src="https://www.gstatic.com/devrel-devsite/prod/vac6c146aea38f1bfcae307b4a70e5ff3d5b3d67823d8f3c763a34e6c3e6ebf3a/cloud/images/cloud-logo.svg" width="200"></td>
+    <td><img src="https://miro.medium.com/max/500/1*f8yvKwVCEPJ5jT8hNqjQzQ.png" width="200"></td>
+    <td><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="200"></td>
   </tr>
 </table>
+<!-- Table containing four rows of images -->
