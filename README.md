@@ -11,5 +11,5 @@
 <h1 align="center"></h1>
 <!-- Empty heading 1 element centered -->
 
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" />
 <!-- Image aligned to the left displaying GitHub statistics -->
