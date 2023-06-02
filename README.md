@@ -66,27 +66,27 @@
       <span>TensorFlow</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/pytorch-3521429-2944878.png" width="50" height="50">
+      <img src="libraryImages/pytorch.png" width="100" height="100">
       <br>
       <span>PyTorch</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/scikit-learn-3629127-3031840.png" width="50" height="50">
+      <img src="libraryImages/scikit_learn.png" width="100" height="100">
       <br>
       <span>Scikit-Learn</span>
     </td>
     <td>
-      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="50" height="50">
+      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="100" height="100">
       <br>
       <span>Pandas</span>
     </td>
     <td>
-      <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50" height="50">
+      <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="100" height="100">
       <br>
       <span>Matplotlib</span>
     </td>
     <td>
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50" height="50">
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="100">
       <br>
       <span>Seaborn</span>
     </td>
@@ -94,32 +94,32 @@
   <tr>
     <!-- Third row of images -->
     <td>
-      <img src="https://avatars.githubusercontent.com/u/26351522?s=200&v=4" width="200">
+      <img src="libraryImages/shiny.png" width="100" height="100">
       <br>
       <span>Shiny</span>
     </td>
     <td>
-      <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="200">
+      <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="100" height="100">
       <br>
       <span>PostgreSQL</span>
     </td>
     <td>
-      <img src="https://images.rheinwerk-verlag.de/bilder/b_9783836230857_4.png" width="200">
+      <img src="libraryImages/sql_alchemy.png" width="100" height="100">
       <br>
       <span>SQLAlchemy</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" width="200">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" width="100" height="100">
       <br>
       <span>MongoDB</span>
     </td>
     <td>
-      <img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" width="200">
+      <img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" width="100" height="100">
       <br>
       <span>HBase</span>
     </td>
     <td>
-      <img src="https://phoenix.apache.org/images/phoenix-logo.png" width="200">
+      <img src="libraryImages/apache_phoenix.png" width="100" height="100">
       <br>
       <span>Phoenix</span>
     </td>
