@@ -39,11 +39,15 @@ Jesús holds a Data Science Engineer Certification from The Data Incubator (2023
   <tr>
     <td>
       <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="50" height="50">
-       <img src="https://www.r-project.org/logo/Rlogo.png" width="50" height="50">
+      <img src="https://www.r-project.org/logo/Rlogo.png" width="50" height="50">
+      <img src="libraryImages/sql.png" width="50" height="50">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" width="50" height="50">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="50" height="50">
+      <img src="libraryImages/bash.png" width="50" height="50">
     </td>
-    <td>Python, R</td>
+    <td>Python, R, SQL, C#, Java, Bash</td>
     <td>Programming Languages</td>
-    <td>5 years, 3 years</td>
+    <td>3 yrs., 5 yrs., 2 yrs., 2 yrs., 4 yrs.</td>
     <td>
       <img src="https://image.flaticon.com/icons/png/512/1167/1167980.png" width="20" height="20" title="Novice">
        <img src="https://image.flaticon.com/icons/png/512/1167/1167980.png" width="20" height="20" title="Novice">
