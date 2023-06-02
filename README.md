@@ -94,7 +94,7 @@
   <tr>
     <!-- Third row of images -->
     <td>
-      <img src="libraryImages/shiny.png" width="120" height="100">
+      <img src="libraryImages/shiny.png" width="120" height="80">
       <br>
       <span>Shiny</span>
     </td>
