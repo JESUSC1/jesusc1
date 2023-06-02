@@ -104,7 +104,7 @@
       <span>PostgreSQL</span>
     </td>
     <td>
-      <img src="libraryImages/sql_alchemy.png" width="100" height="100">
+      <img src="libraryImages/sql_alchemy.png" width="100" height="80">
       <br>
       <span>SQLAlchemy</span>
     </td>
@@ -127,40 +127,56 @@
   <tr>
     <!-- Fourth row of images -->
     <td>
-      <img src="https://hive.apache.org/images/hive_logo_medium.png" width="200">
+      <img src="libraryImages/hive.png" width="100" height="100">
       <br>
       <span>Hive</span>
     </td>
     <td>
-      <img src="https://impala.apache.org/img/impala_logo.svg" width="200">
+      <img src="libraryImages/impala.png" width="100" height="100">
       <br>
       <span>Impala</span>
     </td>
     <td>
-      <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="200">
+      <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="100" height="100">
       <br>
       <span>Spark</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-1869025-1583149.png" width="200">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-1869025-1583149.png" width="100" height="100">
       <br>
       <span>AWS</span>
     </td>
     <td>
-      <img src="https://www.gstatic.com/devrel-devsite/prod/vac6c146aea38f1bfcae307b4a70e5ff3d5b3d67823d8f3c763a34e6c3e6ebf3a/cloud/images/cloud-logo.svg" width="200">
+      <img src="libraryImages/gcs.png" width="100" height="100">
       <br>
       <span>GCS</span>
     </td>
     <td>
-      <img src="https://miro.medium.com/max/500/1*f8yvKwVCEPJ5jT8hNqjQzQ.png" width="200">
+      <img src="libraryImages/databricks.png" width="100" height="100">
       <br>
       <span>Databricks</span>
     </td>
     <td>
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="200">
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" height="100">
       <br>
       <span>Git</span>
     </td>
+    <td>
+      <img src="ibraryImages/bitbucket.png" width="100" height="100">
+      <br>
+      <span>Bitbucket</span>
+    </td>
+    <td>
+      <img src="ibraryImages/hadoop.png" width="100" height="100">
+      <br>
+      <span>Hadoop</span>
+      </td>
+      <td>
+      <img src="ibraryImages/power_BI.png" width="100" height="100">
+      <br>
+      <span>PowerBI</span>
+     </td>
+     <td>    
   </tr>
 </table>
 <!-- Table containing four rows of images -->
