@@ -65,15 +65,16 @@ Jesús holds a Data Science Engineer Certification from The Data Incubator (2023
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="50" height="50">
-       <img src="https://www.r-project.org/logo/Rlogo.png" width="50" height="50">
+      <img src="libraryImages/pandas.png" width="60" height="50">
+      <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="80" height="80">
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="80">
+      <img src="libraryImages/shiny.png" width="60" height="50">
+      <img src="libraryImages/powerb_BI.png" width="80" height="50">
     </td>
-    <td>Python, R</td>
+    <td>Pandas, Matplotlib, Seaborn, Shiny, Power BI</td>
     <td>Data Visualization Libraries</td>
-    <td>5 years, 3 years</td>
+    <td>3 years, 3 years, 3 years, 4 years, 1 year</td>
     <td>
-      <img src="https://image.flaticon.com/icons/png/512/1167/1167980.png" width="20" height="20" title="Novice">
-       <img src="https://image.flaticon.com/icons/png/512/1167/1167980.png" width="20" height="20" title="Novice">
     </td>
   </tr>
   <tr>
