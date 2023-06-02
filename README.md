@@ -28,17 +28,17 @@
   <tr>
     <!-- First row of images -->
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="100" height="50">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="80" height="50">
       <br>
       <span>Python</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" width="100" height="50">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" width="80" height="50">
       <br>
       <span>SQL</span>
     </td>
     <td>
-      <img src="https://www.r-project.org/logo/Rlogo.png" width="100" height="50">
+      <img src="https://www.r-project.org/logo/Rlogo.png" width="90" height="50">
       <br>
       <span>R</span>
     </td>
