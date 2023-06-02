@@ -156,11 +156,29 @@
       <br>
       <span>Databricks</span>
     </td>
+  </tr>
+  <tr>
+    <!-- Fifth row of images -->
     <td>
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="200">
       <br>
       <span>Git</span>
     </td>
+    <td>
+      <!-- Placeholder cell without image and label -->
+    </td>
+    <td>
+      <!-- Placeholder cell without image and label -->
+    </td>
+    <td>
+      <!-- Placeholder cell without image and label -->
+    </td>
+    <td>
+      <!-- Placeholder cell without image and label -->
+    </td>
+    <td>
+      <!-- Placeholder cell without image and label -->
+    </td>
   </tr>
 </table>
-<!-- Table containing four rows of images -->
+<!-- Table containing five rows of images -->
