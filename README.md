@@ -33,12 +33,12 @@
       <span>Python</span>
     </td>
     <td>
-      <img src="libraryImages/sql.png" width="100" height="80">
+      <img src="libraryImages/sql.png" width="80" height="80">
       <br>
       <span>SQL</span>
     </td>
     <td>
-      <img src="https://www.r-project.org/logo/Rlogo.png" width="70" height="50">
+      <img src="https://www.r-project.org/logo/Rlogo.png" width="80" height="50">
       <br>
       <span>R</span>
     </td>
@@ -76,7 +76,7 @@
       <span>Scikit-Learn</span>
     </td>
     <td>
-      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="160" height="100">
+      <img src="libraryImages/pandas.png" width="100" height="100">
       <br>
       <span>Pandas</span>
     </td>
