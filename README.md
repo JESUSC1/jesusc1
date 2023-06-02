@@ -61,7 +61,7 @@
   <tr>
     <!-- Second row of images -->
     <td>
-      <img src="tensorflow-tf.svg" width="100" height="100">
+      <img src="libraryImages/tensorflow.png" width="100" height="100">
       <br>
       <span>TensorFlow</span>
     </td>
