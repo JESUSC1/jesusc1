@@ -47,7 +47,7 @@ Jesús holds a Data Science Engineer Certification from The Data Incubator (2023
     </td>
     <td>Python, R, SQL, C#, Java, Bash</td>
     <td>Programming Languages</td>
-    <td>3 yrs., 5 yrs., 2 yrs., 2 yrs., 4 yrs.</td>
+    <td>3 years, 5 years, 2 years, 2 years, 4 years</td>
     <td>Adv., Adv., Inter., Novice, Novice, Inter.</td>
     </td>
   </tr>
