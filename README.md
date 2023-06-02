@@ -28,7 +28,7 @@
   <tr>
     <!-- First row of images -->
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="80" height="50">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="100" height="80">
       <br>
       <span>Python</span>
     </td>
