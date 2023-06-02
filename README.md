@@ -33,7 +33,7 @@
       <span>Python</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" width="80" height="50">
+      <img src="libraryImages/sql.png" width="80" height="50">
       <br>
       <span>SQL</span>
     </td>
