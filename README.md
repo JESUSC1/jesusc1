@@ -43,17 +43,17 @@
       <span>R</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" width="100" height="50">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" width="80" height="50">
       <br>
       <span>C#</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="100" height="50">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="80" height="50">
       <br>
       <span>Java</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/bash-226007.png" width="100" height="50">
+      <img src="libraryImages/bash.png" width="80" height="50">
       <br>
       <span>Bash</span>
     </td>
