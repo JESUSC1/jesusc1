@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/fairyland0926">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Researcher;Data%20Scientist;Software%20Engineer;Data%20Engineer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=550&height=80&color=2A9D2A&vCenter=true&size=45%22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Researcher;Data%20Scientist;Software%20Engineer;Data%20Engineer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=550&height=80&color=D35400&vCenter=true&size=45%22">
   </a>
 </p>
 
