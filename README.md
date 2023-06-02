@@ -66,7 +66,7 @@
       <span>TensorFlow</span>
     </td>
     <td>
-      <img src="libraryImages/pytorch.png" width="100" height="100">
+      <img src="libraryImages/pytorch.png" width="150" height="100">
       <br>
       <span>PyTorch</span>
     </td>
