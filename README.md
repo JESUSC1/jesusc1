@@ -71,12 +71,12 @@
       <span>PyTorch</span>
     </td>
     <td>
-      <img src="libraryImages/scikit_learn.png" width="150" height="100">
+      <img src="libraryImages/scikit_learn.png" width="120" height="80">
       <br>
       <span>Scikit-Learn</span>
     </td>
     <td>
-      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="180" height="100">
+      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="160" height="100">
       <br>
       <span>Pandas</span>
     </td>
@@ -86,7 +86,7 @@
       <span>Matplotlib</span>
     </td>
     <td>
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="100">
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="200" height="100">
       <br>
       <span>Seaborn</span>
     </td>
