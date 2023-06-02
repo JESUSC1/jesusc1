@@ -76,7 +76,7 @@
       <span>Scikit-Learn</span>
     </td>
     <td>
-      <img src="libraryImages/pandas.png" width="100" height="100">
+      <img src="libraryImages/pandas.png" width="120" height="100">
       <br>
       <span>Pandas</span>
     </td>
