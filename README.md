@@ -71,7 +71,7 @@
       <span>PyTorch</span>
     </td>
     <td>
-      <img src="libraryImages/scikit_learn.png" width="120" height="80">
+      <img src="libraryImages/scikit_learn.png" width="120" height="70">
       <br>
       <span>Scikit-Learn</span>
     </td>
