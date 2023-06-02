@@ -18,7 +18,9 @@
   <!-- About Me section on the right -->
   <div style="width: 300px; background-color: #f2f2f2; padding: 10px;">
     <h3>About Me :sunglasses:</h3>
-    <p>Interdisciplinary & data-driven problem solver with a passion for science, technology, and their application for the betterment of mankind.</p>
+    <p>Jesús Cantú is a skilled Data Scientist based in Chicago, IL. With a strong foundation in programming languages, he leverages his technical expertise to excel in data science and machine learning. And is experienced in applying various techniques, including Deep Learning/Neural Networks, Unsupervised Learning, Regression models, and Data Processing/Visualization.
+
+Jesús holds a Data Science Engineer Certification from The Data Incubator (2023), a M.S. in Software Engineering from Loyola University - Chicago (2023), and a B.A. in Sociology from Princeton University (2017). He considers himself an interdisciplinary & data-driven problem solver with a passion for science, technology, and their application for the betterment of mankind.</p>
   </div>
 </div>
 
