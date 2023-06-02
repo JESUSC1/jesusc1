@@ -1,184 +1,232 @@
-<h1 align="center"> Jesus Cantu Jr. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    td {
+      text-align: center;
+      vertical-align: middle;
+    }
 
-<p align="center">
-  <a href="https://github.com/fairyland0926">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Researcher;Data%20Scientist;Software%20Engineer;Data%20Engineer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=550&height=80&color=2A9D2A&vCenter=true&size=45%22">
-  </a>
-</p>
+    .label {
+      display: block;
+      margin-bottom: 5px;
+    }
 
-<h1 align="center"></h1>
+    .image-container {
+      max-width: 100px;
+      max-height: 100px;
+    }
 
-<!-- GitHub statistics section -->
-<div style="display: flex; justify-content: center;">
-  <!-- Image aligned to the left displaying GitHub statistics -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" width="350" height="150">
+    .image-container img {
+      max-width: 100%;
+      max-height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <h1 align="center">Jesus Cantu Jr. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+  <p align="center">
+    <a href="https://github.com/fairyland0926">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Researcher;Data%20Scientist;Software%20Engineer;Data%20Engineer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=550&height=80&color=2A9D2A&vCenter=true&size=45%22">
+    </a>
+  </p>
+
+  <h1 align="center"></h1>
+
+  <!-- GitHub statistics section -->
+  <div style="display: flex; justify-content: center;">
+    <!-- Image aligned to the left displaying GitHub statistics -->
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" width="350" height="150">
+    </div>
+
+    <!-- Image aligned to the right displaying the top programming languages used -->
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10" width="350" height="150">
+    </div>
   </div>
 
-  <!-- Image aligned to the right displaying the top programming languages used -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10" width="350" height="150">
-  </div>
-</div>
+  <h2 align="center">Programming Languages</h2>
+  <!-- Heading 2 element with the text "Programming Languages" -->
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<!-- Heading 2 element with the text "𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭" -->
+  <table align="center">
+    <tr>
+      <!-- First row of images -->
+      <td>
+        <span class="label">[Programming Languages]</span>
+        <div class="image-container">
+          <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png">
+        </div>
+        <br>
+        <span>Python</span>
+      </td>
+      <td>
+        <span class="label">[Programming Languages]</span>
+        <div class="image-container">
+          <img src="libraryImages/sql.png">
+        </div>
+        <br>
+        <span>SQL</span>
+      </td>
+      <td>
+        <span class="label">[Programming Languages]</span>
+        <div class="image-container">
+          <img src="https://www.r-project.org/logo/Rlogo.png">
+        </div>
+        <br>
+        <span>R</span>
+      </td>
+      <td>
+        <span class="label">[Programming Languages]</span>
+        <div class="image-container">
+          <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png">
+        </div>
+        <br>
+        <span>C#</span>
+      </td>
+      <td>
+        <span class="label">[Programming Languages]</span>
+        <div class="image-container">
+          <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png">
+        </div>
+        <br>
+        <span>Java</span>
+      </td>
+      <td>
+        <span class="label">[Programming Languages]</span>
+        <div class="image-container">
+          <img src="libraryImages/bash.png">
+        </div>
+        <br>
+        <span>Bash</span>
+      </td>
+    </tr>
+    <!-- Remaining rows of images -->
+    <tr>
+      <!-- Second row of images -->
+      <td>
+        <img src="libraryImages/tensorflow.png" width="80" height="80">
+        <br>
+        <span>TensorFlow</span>
+      </td>
+      <td>
+        <img src="libraryImages/pytorch.png" width="80" height="80">
+        <br>
+        <span>PyTorch</span>
+      </td>
+      <td>
+        <img src="libraryImages/scikit_learn.png" width="80" height="80">
+        <br>
+        <span>Scikit-Learn</span>
+      </td>
+      <td>
+        <img src="libraryImages/pandas.png" width="80" height="80">
+        <br>
+        <span>Pandas</span>
+      </td>
+      <td>
+        <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="80" height="80">
+        <br>
+        <span>Matplotlib</span>
+      </td>
+      <td>
+        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="80">
+        <br>
+        <span>Seaborn</span>
+      </td>
+    </tr>
+    <tr>
+      <!-- Third row of images -->
+      <td>
+        <img src="libraryImages/shiny.png" width="80" height="80">
+        <br>
+        <span>Shiny</span>
+      </td>
+      <td>
+        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="80" height="80">
+        <br>
+        <span>PostgreSQL</span>
+      </td>
+      <td>
+        <img src="libraryImages/sql_alchemy.png" width="80" height="80">
+        <br>
+        <span>SQLAlchemy</span>
+      </td>
+      <td>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" width="80" height="80">
+        <br>
+        <span>MongoDB</span>
+      </td>
+      <td>
+        <img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" width="80" height="80">
+        <br>
+        <span>HBase</span>
+      </td>
+      <td>
+        <img src="libraryImages/apache_phoenix.png" width="80" height="80">
+        <br>
+        <span>Phoenix</span>
+      </td>
+    </tr>
+    <tr>
+      <!-- Fourth row of images -->
+      <td>
+        <img src="libraryImages/hive.png" width="80" height="80">
+        <br>
+        <span>Hive</span>
+      </td>
+      <td>
+        <img src="libraryImages/impala.png" width="80" height="80">
+        <br>
+        <span>Impala</span>
+      </td>
+      <td>
+        <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="80" height="80">
+        <br>
+        <span>Spark</span>
+      </td>
+      <td>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-1869025-1583149.png" width="80" height="80">
+        <br>
+        <span>AWS</span>
+      </td>
+      <td>
+        <img src="libraryImages/gcs.png" width="80" height="80">
+        <br>
+        <span>GCS</span>
+      </td>
+      <td>
+        <img src="libraryImages/databricks.png" width="80" height="80">
+        <br>
+        <span>Databricks</span>
+      </td>
+    </tr>
+    <tr>
+      <!-- Fifth row of images -->
+      <td>
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80" height="80">
+        <br>
+        <span>Git</span>
+      </td>
+      <td>
+        <img src="libraryImages/bitbucket.png" width="80" height="80">
+        <br>
+        <span>Bitbucket</span>
+      </td>
+      <td>
+        <img src="libraryImages/hadoop.png" width="80" height="80">
+        <br>
+        <span>Hadoop</span>
+      </td>
+      <td>
+        <img src="ibraryImages/power_BI.png" width="80" height="80">
+        <br>
+        <span>PowerBI</span>
+      </td>
+    </tr>
+  </table>
+  <!-- Table containing five rows of images -->
+</body>
+</html>
 
-<table>
-  <tr>
-    <!-- First row of images -->
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="80" height="80">
-      <br>
-      <span>Python</span>
-    </td>
-    <td>
-      <img src="libraryImages/sql.png" width="80" height="80">
-      <br>
-      <span>SQL</span>
-    </td>
-    <td>
-      <img src="https://www.r-project.org/logo/Rlogo.png" width="80" height="50">
-      <br>
-      <span>R</span>
-    </td>
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" width="70" height="50">
-      <br>
-      <span>C#</span>
-    </td>
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="80" height="60">
-      <br>
-      <span>Java</span>
-    </td>
-    <td>
-      <img src="libraryImages/bash.png" width="80" height="80">
-      <br>
-      <span>Bash</span>
-    </td>
-  </tr>
-  <tr>
-    <!-- Second row of images -->
-    <td>
-      <img src="libraryImages/tensorflow.png" width="80" height="80">
-      <br>
-      <span>TensorFlow</span>
-    </td>
-    <td>
-      <img src="libraryImages/pytorch.png" width="80" height="80">
-      <br>
-      <span>PyTorch</span>
-    </td>
-    <td>
-      <img src="libraryImages/scikit_learn.png" width="80" height="80">
-      <br>
-      <span>Scikit-Learn</span>
-    </td>
-    <td>
-      <img src="libraryImages/pandas.png" width="80" height="80">
-      <br>
-      <span>Pandas</span>
-    </td>
-    <td>
-      <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="80" height="80">
-      <br>
-      <span>Matplotlib</span>
-    </td>
-    <td>
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="80">
-      <br>
-      <span>Seaborn</span>
-    </td>
-  </tr>
-  <tr>
-    <!-- Third row of images -->
-    <td>
-      <img src="libraryImages/shiny.png" width="80" height="80">
-      <br>
-      <span>Shiny</span>
-    </td>
-    <td>
-      <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="80" height="80">
-      <br>
-      <span>PostgreSQL</span>
-    </td>
-    <td>
-      <img src="libraryImages/sql_alchemy.png" width="80" height="80">
-      <br>
-      <span>SQLAlchemy</span>
-    </td>
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" width="80" height="80">
-      <br>
-      <span>MongoDB</span>
-    </td>
-    <td>
-      <img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" width="80" height="80">
-      <br>
-      <span>HBase</span>
-    </td>
-    <td>
-      <img src="libraryImages/apache_phoenix.png" width="80" height="80">
-      <br>
-      <span>Phoenix</span>
-    </td>
-  </tr>
-  <tr>
-    <!-- Fourth row of images -->
-    <td>
-      <img src="libraryImages/hive.png" width="80" height="80">
-      <br>
-      <span>Hive</span>
-    </td>
-    <td>
-      <img src="libraryImages/impala.png" width="80" height="80">
-      <br>
-      <span>Impala</span>
-    </td>
-    <td>
-      <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="80" height="80">
-      <br>
-      <span>Spark</span>
-    </td>
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-1869025-1583149.png" width="80" height="80">
-      <br>
-      <span>AWS</span>
-    </td>
-    <td>
-      <img src="libraryImages/gcs.png" width="80" height="80">
-      <br>
-      <span>GCS</span>
-    </td>
-    <td>
-      <img src="libraryImages/databricks.png" width="80" height="80">
-      <br>
-      <span>Databricks</span>
-    </td>
-  </tr>
-  <tr>
-    <!-- Fifth row of images -->
-    <td>
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80" height="80">
-      <br>
-      <span>Git</span>
-    </td>
-    <td>
-      <img src="libraryImages/bitbucket.png" width="80" height="80">
-      <br>
-      <span>Bitbucket</span>
-    </td>
-    <td>
-      <img src="libraryImages/hadoop.png" width="80" height="80">
-      <br>
-      <span>Hadoop</span>
-    </td>
-    <td>
-      <img src="ibraryImages/power_BI.png" width="80" height="80">
-      <br>
-      <span>PowerBI</span>
-    </td>
-  </tr>
-</table>
-<!-- Table containing five rows of images -->
