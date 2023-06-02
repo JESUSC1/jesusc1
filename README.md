@@ -53,13 +53,14 @@ Jesús holds a Data Science Engineer Certification from The Data Incubator (2023
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" width="50" height="50">
+      <img src="libraryImages/tensorflow.png" width="60" height="50">
+      <img src="libraryImages/pytorch.png" width="60" height="50">
+      <img src="libraryImages/scikit_learn.png" width="60" height="50">
     </td>
-    <td>SQL</td>
+    <td>TensorFlow, PyTorch, Scikit-Learn</td>
     <td>Machine Learning Libraries</td>
-    <td>7 years</td>
-    <td>
-      <img src="https://image.flaticon.com/icons/png/512/1167/1167982.png" width="20" height="20" title="Expert">
+    <td>1 year, 1 year, 1 year</td>
+    <td>Novice, Novice, Novice</td>
     </td>
   </tr>
   <tr>
