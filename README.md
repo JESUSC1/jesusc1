@@ -84,16 +84,6 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="50" height="50">
-       <img src="https://www.r-project.org/logo/Rlogo.png" width="50" height="50">
-    </td>
-    <td>Python, R</td>
-    <td>Big Data Technologies</td>
-    <td>5 years, 3 years</td>
-    <td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="50" height="50">
-       <img src="https://www.r-project.org/logo/Rlogo.png" width="50" height="50">
-      
     </td>
   </tr>
   <tr>
@@ -101,7 +91,7 @@
        <img src="https://www.r-project.org/logo/Rlogo.png" width="50" height="50">
     </td>
     <td>Python, R</td>
-    <td>etc</td>
+    <td>Big Data Technologies</td>
     <td>5 years, 3 years</td>
     <td>
       <img src="https://image.flaticon.com/icons/png/512/1167/1167980.png" width="20" height="20" title="Novice">
@@ -122,7 +112,6 @@
     </td>
   </tr>
   <tr>
-    <td>
-    <table>
+  <table>
   
 
