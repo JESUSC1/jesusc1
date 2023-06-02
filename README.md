@@ -28,7 +28,7 @@
   <tr>
     <!-- First row of images -->
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="100" height="80">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="80" height="80">
       <br>
       <span>Python</span>
     </td>
@@ -53,7 +53,7 @@
       <span>Java</span>
     </td>
     <td>
-      <img src="libraryImages/bash.png" width="80" height="50">
+      <img src="libraryImages/bash.png" width="80" height="80">
       <br>
       <span>Bash</span>
     </td>
@@ -61,32 +61,32 @@
   <tr>
     <!-- Second row of images -->
     <td>
-      <img src="libraryImages/tensorflow.png" width="100" height="80">
+      <img src="libraryImages/tensorflow.png" width="80" height="80">
       <br>
       <span>TensorFlow</span>
     </td>
     <td>
-      <img src="libraryImages/pytorch.png" width="150" height="80">
+      <img src="libraryImages/pytorch.png" width="80" height="80">
       <br>
       <span>PyTorch</span>
     </td>
     <td>
-      <img src="libraryImages/scikit_learn.png" width="120" height="70">
+      <img src="libraryImages/scikit_learn.png" width="80" height="80">
       <br>
       <span>Scikit-Learn</span>
     </td>
     <td>
-      <img src="libraryImages/pandas.png" width="120" height="100">
+      <img src="libraryImages/pandas.png" width="80" height="80">
       <br>
       <span>Pandas</span>
     </td>
     <td>
-      <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="200" height="100">
+      <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="80" height="80">
       <br>
       <span>Matplotlib</span>
     </td>
     <td>
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="200" height="100">
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="80">
       <br>
       <span>Seaborn</span>
     </td>
@@ -94,32 +94,32 @@
   <tr>
     <!-- Third row of images -->
     <td>
-      <img src="libraryImages/shiny.png" width="120" height="80">
+      <img src="libraryImages/shiny.png" width="80" height="80">
       <br>
       <span>Shiny</span>
     </td>
     <td>
-      <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="100" height="100">
+      <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="80" height="80">
       <br>
       <span>PostgreSQL</span>
     </td>
     <td>
-      <img src="libraryImages/sql_alchemy.png" width="100" height="80">
+      <img src="libraryImages/sql_alchemy.png" width="80" height="80">
       <br>
       <span>SQLAlchemy</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" width="100" height="100">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" width="80" height="80">
       <br>
       <span>MongoDB</span>
     </td>
     <td>
-      <img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" width="100" height="100">
+      <img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" width="80" height="80">
       <br>
       <span>HBase</span>
     </td>
     <td>
-      <img src="libraryImages/apache_phoenix.png" width="100" height="100">
+      <img src="libraryImages/apache_phoenix.png" width="80" height="80">
       <br>
       <span>Phoenix</span>
     </td>
@@ -127,56 +127,58 @@
   <tr>
     <!-- Fourth row of images -->
     <td>
-      <img src="libraryImages/hive.png" width="100" height="100">
+      <img src="libraryImages/hive.png" width="80" height="80">
       <br>
       <span>Hive</span>
     </td>
     <td>
-      <img src="libraryImages/impala.png" width="100" height="100">
+      <img src="libraryImages/impala.png" width="80" height="80">
       <br>
       <span>Impala</span>
     </td>
     <td>
-      <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="100" height="100">
+      <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="80" height="80">
       <br>
       <span>Spark</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-1869025-1583149.png" width="100" height="100">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-1869025-1583149.png" width="80" height="80">
       <br>
       <span>AWS</span>
     </td>
     <td>
-      <img src="libraryImages/gcs.png" width="100" height="100">
+      <img src="libraryImages/gcs.png" width="80" height="80">
       <br>
       <span>GCS</span>
     </td>
     <td>
-      <img src="libraryImages/databricks.png" width="100" height="100">
+      <img src="libraryImages/databricks.png" width="80" height="80">
       <br>
       <span>Databricks</span>
     </td>
+  </tr>
+  <tr>
+    <!-- Fifth row of images -->
     <td>
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" height="100">
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80" height="80">
       <br>
       <span>Git</span>
     </td>
     <td>
-      <img src="ibraryImages/bitbucket.png" width="100" height="100">
+      <img src="libraryImages/bitbucket.png" width="80" height="80">
       <br>
       <span>Bitbucket</span>
     </td>
     <td>
-      <img src="ibraryImages/hadoop.png" width="100" height="100">
+      <img src="libraryImages/hadoop.png" width="80" height="80">
       <br>
       <span>Hadoop</span>
-      </td>
-      <td>
-      <img src="ibraryImages/power_BI.png" width="100" height="100">
+    </td>
+    <td>
+      <img src="ibraryImages/power_BI.png" width="80" height="80">
       <br>
       <span>PowerBI</span>
-     </td>
-     <td>    
+    </td>
   </tr>
 </table>
-<!-- Table containing four rows of images -->
+<!-- Table containing five rows of images -->
