@@ -38,7 +38,7 @@
       <span>SQL</span>
     </td>
     <td>
-      <img src="https://www.r-project.org/logo/Rlogo.png" width="90" height="50">
+      <img src="https://www.r-project.org/logo/Rlogo.png" width="80" height="50">
       <br>
       <span>R</span>
     </td>
