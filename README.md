@@ -48,7 +48,7 @@
       <span>C#</span>
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="70" height="50">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="80" height="60">
       <br>
       <span>Java</span>
     </td>
