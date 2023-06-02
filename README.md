@@ -8,21 +8,22 @@
 
 <h1 align="center"></h1>
 
-<!-- GitHub statistics section -->
-<div style="display: flex; justify-content: center;">
-  <!-- Image aligned to the left displaying GitHub statistics -->
-  <div>
+<div style="display: flex; justify-content: flex-start;">
+  <!-- Images aligned to the left -->
+  <div style="margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" width="350" height="150">
-  </div>
-  
-
-  <!-- Image aligned to the right displaying the top programming languages used -->
-  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10" width="350" height="150">
+    <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="250" height="150">
+  </div>
+  <!-- About Me section on the right -->
+  <div style="width: 300px; background-color: #f2f2f2; padding: 10px;">
+    <h3>About Me :sunglasses:</h3>
+    <p>Interdisciplinary & data-driven problem solver with a passion for science, technology, and their application for the betterment of mankind.</p>
   </div>
 </div>
 
-<h2 font-weight="bold">Software Skills</h2>
+
+<h2 font-weight="bold">Skill Set :books:</h2>
 <!-- Heading 2 element with the text "Software Skills" -->
 
 <table>
