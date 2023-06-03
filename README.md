@@ -110,9 +110,9 @@ Jesús holds a Data Science Engineer Certification from The Data Incubator (2023
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-1869025-1583149.png" width="60" height="60">
-      <img src="libraryImages/gcs.png" width="60" height="60">
-      <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="60" height="60">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-1869025-1583149.png" width="50" height="50">
+      <img src="libraryImages/gcs.png" width="50" height="50">
+      <img src="ibraryImages/databricks.png" width="50" height="50">
     </td>
     <td>AWS, GCP, Databricks</td>
     <td>Cloud Computing Services</td>
