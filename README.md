@@ -110,17 +110,34 @@ Jesús holds a Data Science Engineer Certification from The Data Incubator (2023
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-1869025-1583149.png" width="50" height="50">
-      <img src="libraryImages/gcs.png" width="50" height="50">
-      <img src="ibraryImages/databricks.png" width="50" height="50">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-1869025-1583149.png" width="55" height="55">
+      <img src="libraryImages/gcs.png" width="55" height="55">
+      <img src="libraryImages/databricks.png" width="60" height="60">
     </td>
     <td>AWS, GCP, Databricks</td>
     <td>Cloud Computing Services</td>
     <td>1 year, 1 year, 1 year</td>
     <td>Inter., Novice, Novice</td>
     </td>
+     </td>
   </tr>
   <tr>
+    <td>
+      <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="60" height="50"> 
+      <img src="libraryImages/bitbucket.png" width="50" height="50">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="50" height="50">
+      <img src="libraryImages/bitbucket.png" width="50" height="50">
+    </td>
+    <td>Docker, Bitbucket, Visual Studio Code, Git</td>
+    <td>DevOps/td>
+    <td>1 year, 1 year, 2 years, 4 years</td>
+    <td>Novice, Novice, Inter., Adv.</td>
+    </td>
+  </tr>
+  <tr>
+   </td>
+  </tr>
+  </tr>
   <table>
   
 
