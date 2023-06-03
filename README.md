@@ -79,45 +79,22 @@ Jesús holds a Data Science Engineer Certification from The Data Incubator (2023
   </tr>
   <tr>
     <td>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="50" height="50">
-       <img src="https://www.r-project.org/logo/Rlogo.png" width="50" height="50">
+      <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50" height="50"> 
+      <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50" height="50"> 
+       <img src="libraryImages/sql_alchemy.png" width="50" height="50"> 
+       <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" width="50" height="50"> 
+       <img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" width="60" height="50"> 
     </td>
-    <td>Python, R</td>
+    <td>MySQL, PostgreSQL, SQLAlchemy, MongoDB, HBase</td>
     <td>Database Technologies</td>
-    <td>5 years, 3 years</td>
-    <td>
-      <img src="https://image.flaticon.com/icons/png/512/1167/1167980.png" width="20" height="20" title="Novice">
-       <img src="https://image.flaticon.com/icons/png/512/1167/1167980.png" width="20" height="20" title="Novice">
+    <td>3 years, 3 years, 1 year, 2 years, 1 year</td>
+    <td>Inter., Inter., Novice, Inter., Novice</td>
     </td>
   </tr>
   <tr>
     </td>
   </tr>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="50" height="50">
-       <img src="https://www.r-project.org/logo/Rlogo.png" width="50" height="50">
-    </td>
-    <td>Python, R</td>
-    <td>Big Data Technologies</td>
-    <td>5 years, 3 years</td>
-    <td>
-      <img src="https://image.flaticon.com/icons/png/512/1167/1167980.png" width="20" height="20" title="Novice">
-       <img src="https://image.flaticon.com/icons/png/512/1167/1167980.png" width="20" height="20" title="Novice">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="50" height="50">
-       <img src="https://www.r-project.org/logo/Rlogo.png" width="50" height="50">
-    </td>
-    <td>Python, R</td>
-    <td>etc</td>
-    <td>5 years, 3 years</td>
-    <td>
-      <img src="https://image.flaticon.com/icons/png/512/1167/1167980.png" width="20" height="20" title="Novice">
-       <img src="https://image.flaticon.com/icons/png/512/1167/1167980.png" width="20" height="20" title="Novice">
-    </td>
-  </tr>
   <tr>
   <table>
   
