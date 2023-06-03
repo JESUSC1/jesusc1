@@ -81,28 +81,28 @@ Jesús holds a Data Science Engineer Certification from The Data Incubator (2023
     <td>
       <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50" height="50"> 
       <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50" height="50"> 
-       <img src="libraryImages/sql_alchemy.png" width="50" height="50"> 
-       <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" width="50" height="50"> 
-       <img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" width="60" height="50"> 
-       <img src="libraryImages/impala.png" width="50" height="50">
+      <img src="libraryImages/sql_alchemy.png" width="50" height="50"> 
+      <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" width="60" height="60"> 
     </td>
-    <td>MySQL, PostgreSQL, SQLAlchemy, MongoDB, HBase, Impala</td>
+    <td>MySQL, PostgreSQL, SQLAlchemy, MongoDB</td>
     <td>Database Technologies</td>
-    <td>3 years, 3 years, 1 year, 2 years, 1 year, 1 year</td>
-    <td>Inter., Inter., Novice, Inter., Novice, Novice</td>
+    <td>3 years, 3 years, 1 year, 2 years</td>
+    <td>Inter., Inter., Novice, Inter.</td>
     </td>
      </td>
   </tr>
   <tr>
     <td>
-      <img src="libraryImages/tensorflow.png" width="60" height="50">
-      <img src="libraryImages/pytorch.png" width="60" height="50">
-      <img src="libraryImages/scikit_learn.png" width="60" height="50">
+      <img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" width="60" height="50"> 
+      <img src="libraryImages/apache_phoenix.png" width="50" height="50">
+      <img src="libraryImages/hive.png" width="60" height="60">
+      <img src="libraryImages/impala.png" width="60" height="60">
+      <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="60" height="60">
     </td>
-    <td>TensorFlow, PyTorch, Scikit-Learn</td>
-    <td>Machine Learning Libraries</td>
-    <td>1 year, 1 year, 1 year</td>
-    <td>Novice, Novice, Novice</td>
+    <td>Hbase, Phoenix, Hive, Impala, Spark</td>
+    <td>Big Data Technologies</td>
+    <td>1 year, 1 year, 1 year, 1 year, 2 years</td>
+    <td>Novice, Novice, Novice, Novice, Inter.</td>
     </td>
   </tr>
   <tr>
