@@ -110,14 +110,14 @@ Jesús holds a Data Science Engineer Certification from The Data Incubator (2023
   </tr>
   <tr>
     <td>
-      <img src="libraryImages/tensorflow.png" width="60" height="50">
-      <img src="libraryImages/pytorch.png" width="60" height="50">
-      <img src="libraryImages/scikit_learn.png" width="60" height="50">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-1869025-1583149.png" width="60" height="60">
+      <img src="libraryImages/gcs.png" width="60" height="60">
+      <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="60" height="60">
     </td>
-    <td>TensorFlow, PyTorch, Scikit-Learn</td>
-    <td>Machine Learning Libraries</td>
+    <td>AWS, GCP, Databricks</td>
+    <td>Cloud Computing Services</td>
     <td>1 year, 1 year, 1 year</td>
-    <td>Novice, Novice, Novice</td>
+    <td>Inter., Novice, Novice</td>
     </td>
   </tr>
   <tr>
