@@ -28,6 +28,21 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
   </div>
 </div>
 
+<h3 align="left"> 📫 How to reach me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jesus-cantu217/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
+<a href="mailto:jesus.cantu217@gmail.com" target="_blank">
+  <img src="https://icons8.com/icon/OumT4lIcOllS/mail" alt="email" height="30" width="30" />
+<a href="https://example.com/path/to/resume.pdf" target="_blank">
+  <img src="https://example.com/path/to/resume-icon.png" alt="resume" height="30" width="30" />  
+<a href="https://medium.com/@your-username" target="_blank">
+  <img src="https://example.com/path/to/medium-icon.png" alt="medium" height="30" width="30" />
+</a>
+</a>
+</a>
+</p>
+<br>
 
 <h2 font-weight="bold">Skill Set :books:</h2>
 <!-- Heading 2 element with the text "Software Skills" -->
