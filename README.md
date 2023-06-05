@@ -49,6 +49,12 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
 <h2 font-weight="bold">Skill Set :books:</h2>
 <!-- Heading 2 element with the text "Software Skills" -->
 
+<p align="center">
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
+</p>
+
 
 ------
 
