@@ -1,10 +1,16 @@
 <h1 align="center"> Jesús Cantú Jr. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="Coding Cat" width="200" height="150">
+</p>
+
+<p align="center">
   <a href="https://github.com/fairyland0926">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Researcher;Data%20Scientist;Software%20Engineer;Data%20Engineer;5%2B%20years%20of%20coding%20and%20data%20analytics%20experience;Data%20Science%20for%20Social%20Good;Always%20learning%20new%20tech&font=Pacifico&center=true&width=950&height=80&color=D35400&vCenter=true&size=45&speed=120">
   </a>
 </p>
+
+
 
 <h1 align="center"></h1>
 
