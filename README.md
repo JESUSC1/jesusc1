@@ -12,9 +12,11 @@
   <!-- Images aligned to the left -->
   <div style="margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" width="200" height="100">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10" width="200" height="100"title="Note, 'Most Used Languages' is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10" width="200" height="100">
     <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200" height="100">
   </div>
+</div>
+
   
   <!-- About Me section on the right -->
   <div style="width: 300px; background-color: #f2f2f2; padding: 10px;">
