@@ -42,7 +42,7 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
   <a href="libraryImages/Cantu_Jesus_Resume.png" target="_blank" title="Resume">
     <img src="libraryImages/resume1.png" alt="Resume" height="35" width="35">
   </a>
-  <p> I write blogs about topics in computer science, data science & engineering ⌨️. Check out my <a href="https://medium.com/@jesus.cantu217" style="text-decoration: underline;"title=" Medium blog">page</a>!</p>
+  <p> I write blogs to stay up-to-date with topics on computer science, data science & engineering ⌨️. Check out my <a href="https://medium.com/@jesus.cantu217" style="text-decoration: underline;"title=" Medium blog">page</a>!</p>
 </p>
     
 </p>
