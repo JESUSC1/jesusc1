@@ -10,20 +10,12 @@
   </a>
 </p>
 
-
-
 <h1 align="center"></h1>
+<img align="left" height="150px" width="450px" src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10"/>
+<img height="150" />
+<br><br>
 
-<div style="display: flex; justify-content: flex-start;">
-  <!-- Images aligned to the left -->
-  <div style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" width="300" height="150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10" width="200" height="150">
-    <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="100" height="100">
-  </div>
-</div>
-
-  
   <!-- About Me section on the right -->
   <div style="width: 300px; background-color: #f2f2f2; padding: 10px;">
     <h2 font-weight="bold">About Me :sunglasses:</h2>
@@ -56,4 +48,5 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
 </p>
 <h2 font-weight="bold">Skill Set :books:</h2>
 <!-- Heading 2 element with the text "Software Skills" -->
+
 
