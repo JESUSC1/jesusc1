@@ -51,25 +51,28 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
 <p>
-<a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
-<a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
-<a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="R" src="https://img.shields.io/badge/R-1A1A1A?logo=r&logoColor=276DC3&style=flat"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-
-
+<a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
+<a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-1A1A1A?logo=c-sharp&logoColor=239120&style=flat"></a>
+<a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a>
+<a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
 </p>
 
-<h2>🧰 Frameworks and Libraries</h2>
+<h2>🧰 Big Data Technologies & Machine Learning</h2>
 
 <p>
-<a href="https://github.com/"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat"></a>
-<a href="https://wordpress.com/"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FFCA28?logo=databricks&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-1A1A1A?logo=apache-hadoop&logoColor=DE5828&style=flat"></a>
+<a href="#"><img alt="HBase" src="https://img.shields.io/badge/HBase-1A1A1A?logo=apache-hbase&logoColor=F4B400&style=flat"></a>
+<a href="#"><img alt="Phoenix" src="https://img.shields.io/badge/Apache%20Phoenix-1A1A1A?logo=apache-phoenix&logoColor=E96228&style=flat"></a>
+<a href="#"><img alt="Hive" src="https://img.shields.io/badge/Apache%20Hive-1A1A1A?logo=apache-hive&logoColor=FDEE21&style=flat"></a>
+<a href="#"><img alt="Impala" src="https://img.shields.io/badge/Apache%20Impala-1A1A1A?logo=apache-impala&logoColor=00ACD7&style=flat"></a>
+<a href="#"><img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-1A1A1A?logo=apache-spark&logoColor=E25A1C&style=flat"></a>
+<a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-1A1A1A?logo=tensorflow&logoColor=FF6F00&style=flat"></a>
+<a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1A1A1A?logo=pytorch&logoColor=EE4C2C&style=flat"></a>
+<a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-1A1A1A?logo=scikit-learn&logoColor=F7931E&style=flat"></a>
 </p>
 
 <h2>🗄️ Databases and Cloud Computing Services</h2>
@@ -81,27 +84,20 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FFCA28?logo=databricks&logoColor=fff&style=flat"></a>
-
-
 </p>
 
 <h2>💻 Software and Tools</h2>
 
 <p>
-<a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
-<a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-<a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
-<a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-1A1A1A?logo=pandas&logoColor=150458&style=flat"></a>
+<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-1A1A1A?logo=matplotlib&logoColor=11557C&style=flat"></a>
+<a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-1A1A1A?logo=seaborn&logoColor=913DBA&style=flat"></a>
+<a href="#"><img alt="Shiny" src="https://img.shields.io/badge/Shiny-1A1A1A?logo=rstudio&logoColor=75AADB&style=flat"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="NeoVim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat"></a>
+<a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
+<a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R%20Studio-1A1A1A?logo=rstudio&logoColor=75AADB&style=flat"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1A1A1A?logo=docker&logoColor=2496ED&style=flat"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" alt="Visual Studio Badge"></a>
 <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat"></a>
@@ -109,11 +105,13 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
 </p>
 
 <h2> 🧠 Currently learning</h2>
-
-<p>
 <a href="https://github.com/"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat"></a>
-<a href="https://wordpress.com/"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
-</p>
+<a href="#"><img alt="Gitpod" src="https://img.shields.io/badge/Gitpod-1A1A1A?logo=gitpod&logoColor=1AA6E4&style=flat"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
+<a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
+<p>
+
 
 
 ------
