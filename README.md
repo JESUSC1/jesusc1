@@ -18,7 +18,7 @@
   
   <!-- About Me section on the right -->
   <div style="width: 300px; background-color: #f2f2f2; padding: 10px;">
-    <h3>About Me :sunglasses:</h3>
+    <h2 font-weight="bold">About Me :sunglasses:</h2>
     <p>Jesús Cantú is a skilled Data Scientist based in Chicago, IL. With a strong foundation in programming languages, he leverages his technical expertise to excel in data science and machine learning. And is experienced in applying various techniques, including Deep Learning/Neural Networks, Unsupervised Learning, Regression models, and Data Processing/Visualization.
 
 Jesús holds a Data Science Engineer Certification from The Data Incubator (2023), a M.S. in Software Engineering from Loyola University - Chicago (2023) :wolf:, and a B.A. in Sociology from Princeton University (2017) :tiger:. He considers himself an interdisciplinary & data-driven problem solver with a passion for science, technology, and their application for the betterment of mankind.
@@ -28,14 +28,14 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
   </div>
 </div>
 
-<h3 align="left"> 📫 How to reach me:</h3>
+<h2 font-weight="bold">Connect with me 🤝:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/jesus-cantu217/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30"/>
+<img align="center" src="libraryImages/linkedIn1.png" alt="linkedin" height="30" width="30"/>
 <a href="mailto:jesus.cantu217@gmail.com" target="_blank">
   <img align="center" img src="libraryImages/mail1.png" alt="email" height="30" width="30"/>
-<a href="./Cantu_Jesus_Resume.pdf" target="_blank">
-  <img img align="center" src="libraryImages/resume1.png" alt="resume" height="30" width="30"/>  
+<a href="https://calendly.com/jesus-cantu217" target="_blank">
+  <img img align="center" src="libraryImages/calendly.png" alt="calendly" height="30" width="30"/>  
 </a>
   
 <h3 align="left"> :computer: Check out my blog! I write about topics in computer science, data science & engineering:
@@ -44,117 +44,4 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
 </p>
 <h2 font-weight="bold">Skill Set :books:</h2>
 <!-- Heading 2 element with the text "Software Skills" -->
-
-<table>
-  <tr>
-    <th>Software</th>
-    <th>Software Name</th>
-    <th>General Purpose</th>
-    <th>Years of Experience</th>
-    <th>Expert Level</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="50" height="50">
-      <img src="https://www.r-project.org/logo/Rlogo.png" width="50" height="50">
-      <img src="libraryImages/sql.png" width="50" height="50">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" width="50" height="50">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="50" height="50">
-      <img src="libraryImages/bash.png" width="50" height="50">
-    </td>
-    <td>Python, R, SQL, C#, Java, Bash</td>
-    <td>Programming Languages</td>
-    <td>3 years, 5 years, 2 years, 2 years, 4 years</td>
-    <td>Adv., Adv., Inter., Novice, Novice, Inter.</td>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="libraryImages/tensorflow.png" width="60" height="50">
-      <img src="libraryImages/pytorch.png" width="60" height="50">
-      <img src="libraryImages/scikit_learn.png" width="60" height="50">
-    </td>
-    <td>TensorFlow, PyTorch, Scikit-Learn</td>
-    <td>Machine Learning Libraries</td>
-    <td>1 year, 1 year, 1 year</td>
-    <td>Novice, Novice, Novice</td>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="libraryImages/pandas.png" width="60" height="50">
-      <img src="libraryImages/matplotlib.png" width="60" height="50">
-      <img src="libraryImages/seaborn.png" width="60" height="50">
-      <img src="libraryImages/shiny.png" width="60" height="50">
-      <img src="libraryImages/powerb_BI.png" width="50" height="50">
-    </td>
-    <td>Pandas, Matplotlib, Seaborn, Shiny, Power BI</td>
-    <td>Data Visualization Libraries</td>
-    <td>3 years, 3 years, 3 years, 4 years, 1 year</td>
-    <td>Adv., Adv., Adv., Adv., Novice</td>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50" height="50"> 
-      <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50" height="50"> 
-      <img src="libraryImages/sql_alchemy.png" width="50" height="50"> 
-      <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" width="60" height="60"> 
-    </td>
-    <td>MySQL, PostgreSQL, SQLAlchemy, MongoDB</td>
-    <td>Database Technologies</td>
-    <td>3 years, 3 years, 1 year, 2 years</td>
-    <td>Inter., Inter., Novice, Inter.</td>
-    </td>
-     </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" width="60" height="50"> 
-      <img src="libraryImages/apache_phoenix.png" width="50" height="50">
-      <img src="libraryImages/hive.png" width="60" height="60">
-      <img src="libraryImages/impala.png" width="60" height="60">
-      <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="60" height="60">
-    </td>
-    <td>Hbase, Phoenix, Hive, Impala, Spark</td>
-    <td>Big Data Technologies</td>
-    <td>1 year, 1 year, 1 year, 1 year, 2 years</td>
-    <td>Novice, Novice, Novice, Novice, Inter.</td>
-    </td>
-  </tr>
-  <tr>
-   </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-1869025-1583149.png" width="55" height="55">
-      <img src="libraryImages/gcs.png" width="55" height="55">
-      <img src="libraryImages/databricks.png" width="60" height="60">
-    </td>
-    <td>AWS, GCP, Databricks</td>
-    <td>Cloud Computing Services</td>
-    <td>1 year, 1 year, 1 year</td>
-    <td>Inter., Novice, Novice</td>
-    </td>
-     </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="60" height="50"> 
-      <img src="libraryImages/bitbucket.png" width="50" height="50">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="50" height="50">
-      <img src="libraryImages/bitbucket.png" width="50" height="50">
-    </td>
-    <td>Docker, Bitbucket, Visual Studio Code, Git</td>
-    <td>DevOps/td>
-    <td>1 year, 1 year, 2 years, 4 years</td>
-    <td>Novice, Novice, Inter., Adv.</td>
-    </td>
-  </tr>
-  <tr>
-   </td>
-  </tr>
-  </tr>
-  <table>
-  
 
