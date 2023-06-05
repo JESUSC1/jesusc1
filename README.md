@@ -13,7 +13,7 @@
   <div style="margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" width="300" height="150">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10" width="200" height="150">
-    <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200" height="150">
+    <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="100" height="100">
   </div>
 </div>
 
