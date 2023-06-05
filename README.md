@@ -36,12 +36,13 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
   <a href="mailto:jesus.cantu217@gmail.com" target="_blank" title="Email">
     <img src="libraryImages/mail1.png" alt="Email" height="35" width="35">
   </a>
-  <a href="libraryImages/Cantu_Jesus_Resume.png" target="_blank" title="Resume">
-    <img src="libraryImages/resume1.png" alt="Calendly" height="35" width="35">
-  </a>
   <a href="https://calendly.com/jesus-cantu217" target="_blank" title="Calendly">
-    <img src="libraryImages/calendly2.png" alt="Calendly" height="45" width="45">
+    <img src="libraryImages/phone.png" alt="Calendly" height="35" width="35">
   </a>
+  <a href="libraryImages/Cantu_Jesus_Resume.png" target="_blank" title="Resume">
+    <img src="libraryImages/resume1.png" alt="Resume" height="35" width="35">
+  </a>
+  <p> I write blogs about topics in computer science, data science & engineering 🖥️. Check out my <a href="https://medium.com/@jesus.cantu217" style="text-decoration: underline;">page</a>!</p>
 </p>
     
 </p>
