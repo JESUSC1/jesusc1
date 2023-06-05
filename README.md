@@ -14,8 +14,8 @@
 <img align="left" height="150px" width="450px" src="https://github-readme-stats.vercel.app/api?username=jesusc1&count_private=true&show_icons=true&theme=dark" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusc1&layout=compact&theme=dark&langs_count=10"/>
 <img height="150" />
-<br><br>
 </p>
+<br><br>
   <!-- About Me section on the right -->
   <div style="width: 300px; background-color: #f2f2f2; padding: 10px;">
     <h2 font-weight="bold">About Me :sunglasses:</h2>
