@@ -28,19 +28,22 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
   </div>
 </div>
 
-<h2 font-weight="bold">Connect with me 🤝:</h2>
+<h2 style="font-weight: bold;">Connect with me 🤝:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/jesus-cantu217/" target="_blank">
-<img align="center" src="libraryImages/linkedIn1.png" alt="linkedin" height="35" width="35"/>
-<a href="mailto:jesus.cantu217@gmail.com" target="_blank">
-  <img align="center" img src="libraryImages/mail1.png" alt="email" height="35" width="35"/>
-<a href="https://calendly.com/jesus-cantu217" target="_blank">
-  <img img align="center" src="libraryImages/calendly.png" alt="calendly" height="40" width="40"/>  
-</a>
-  
-<h3 align="left"> :computer: Check out my blog! I write about topics in computer science, data science & engineering:
-<a href="https://medium.com/@jesus.cantu217" class="underline-link">Medium.com</a>
-  
+  <a href="https://www.linkedin.com/in/jesus-cantu217/" target="_blank" title="LinkedIn">
+    <img src="libraryImages/linkedIn1.png" alt="LinkedIn" height="35" width="35">
+  </a>
+  <a href="mailto:jesus.cantu217@gmail.com" target="_blank" title="Email">
+    <img src="libraryImages/mail1.png" alt="Email" height="35" width="35">
+  </a>
+  <a href="libraryImages/Cantu_Jesus_Resume.png" target="_blank" title="Resume">
+    <img src="libraryImages/resume1.png" alt="Calendly" height="35" width="35">
+  </a>
+  <a href="https://calendly.com/jesus-cantu217" target="_blank" title="Calendly">
+    <img src="libraryImages/calendly2.png" alt="Calendly" height="45" width="45">
+  </a>
+</p>
+    
 </p>
 <h2 font-weight="bold">Skill Set :books:</h2>
 <!-- Heading 2 element with the text "Software Skills" -->
