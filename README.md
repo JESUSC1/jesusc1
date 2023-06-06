@@ -40,6 +40,9 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
   <a href="https://calendly.com/jesus-cantu217" target="_blank" title="Calendly">
     <img src="libraryImages/phone.png" alt="Calendly" height="35" width="35">
   </a>
+  <a href="https://discord.gg/RQTvF3Ne" target="_blank" title="Discord">
+    <img src="libraryImages/discord1.png" alt="Discord" height="35" width="35">
+  </a>
   <a href="libraryImages/Cantu_Jesus_Resume.png" target="_blank" title="Resume">
     <img src="libraryImages/resume1.png" alt="Resume" height="35" width="35">
   </a>
