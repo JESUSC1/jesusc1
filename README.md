@@ -103,6 +103,7 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
 <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1A1A1A?logo=docker&logoColor=2496ED&style=flat"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="https://colab.research.google.com/"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white&style=flat"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" alt="Visual Studio Badge"></a>
 <a href="https://www.eclipse.org/"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&style=flat"></a>
