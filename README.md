@@ -125,7 +125,8 @@ Credit: [jesusc1](https://github.com/jesusc1)
 
 Last Edited on: 06/18/2023 
 
-[![Random Joke on Heroku](https://img.shields.io/badge/Joke-Click%20for%20a%20random%20joke-yellow?style=flat&logo=github)](https://random-joke-generator-cdd8d617afe5.herokuapp.com/)
+[![Random Joke on Heroku](https://img.shields.io/badge/Random%20Joke%20on%20Heroku-yellow?style=flat&logo=github)](https://random-joke-generator-cdd8d617afe5.herokuapp.com/)
+
 
 
 
