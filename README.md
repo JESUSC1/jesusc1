@@ -20,7 +20,7 @@ I hold a Data Science Engineer Certification from The Data Incubator (2023), a M
   </div>
 </div>
 
-<h2 style="font-weight: bold;">Connect with me 🤝:</h2>
+<h2 style="font-weight: bold;">Connect with me 🤝</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/jesus-cantu217/" target="_blank" title="LinkedIn">
     <img src="libraryImages/linkedIn1.png" alt="LinkedIn" height="35" width="35">
