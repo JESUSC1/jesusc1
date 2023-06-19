@@ -15,7 +15,7 @@
     <h2 font-weight="bold">About Me :sunglasses:</h2>
     <p>I am a results-driven Data Scientist currently based in Chicago, IL. With a strong foundation in multiple programming languages and software tools, I leverage my technical expertise and research experience to excel in data analytics and machine learning tasks. I have extensive experience in applying a wide range of techniques, including Deep Learning/Neural Networks, Unsupervised Learning, Regression models, and Data Processing/Visualization.
 
-I hold a Data Science Engineer Certification from The Data Incubator (2023), a M.S. in Software Engineering from Loyola University - Chicago (2023) 🐺, and a B.A. in Sociology from Princeton University (2017) 🐯. I consider myself an interdisciplinary and data-driven problem solver with a passion for science, technology, and their application for the betterment of mankind.
+I hold a Data Science Engineer Certification from The Data Incubator (2023), a M.S. in Software Engineering from Loyola University- Chicago (2023) 🐺, and a B.A. in Sociology from Princeton University (2017) 🐯. I consider myself an interdisciplinary and data-driven problem solver with a passion for science, technology, and their application for the betterment of mankind.
     </p>
   </div>
 </div>
