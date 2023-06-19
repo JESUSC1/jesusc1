@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/fairyland0926">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Researcher;Data%20Scientist;Software%20Engineer;Data%20Engineer;5%2B%20years%20of%20coding%20and%20data%20analytics%20experience;Data%20Science%20for%20Social%20Good;Always%20learning%20new%20tech&font=Pacifico&center=true&width=950&height=80&color=D35400&vCenter=true&size=45&speed=120">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Researcher;Data%20Scientist;Software%20Engineer;Data%20Engineer;7%2B%20years%20of%20coding%20and%20data%20analytics%20experience;Data%20Science%20for%20Social%20Good;Always%20learning%20new%20tech&font=Pacifico&center=true&width=950&height=80&color=D35400&vCenter=true&size=45&speed=120">
   </a>
 </p>
 
@@ -110,6 +110,8 @@ Note, 'Most Used Languages' is only a metric of the languages my public code con
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
 <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
+<a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat"></a>
+<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat"></a>
 <p>
 
@@ -124,4 +126,5 @@ Credit: [jesusc1](https://github.com/jesusc1)
 Last Edited on: 06/18/2023 
 
 [![Random Joke](https://img.shields.io/badge/Joke-Click%20for%20a%20random%20joke-yellow?style=flat&logo=github)](https://random-joke-generator-cdd8d617afe5.herokuapp.com/)
+
 
