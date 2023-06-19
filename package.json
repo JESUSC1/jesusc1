@@ -1,9 +1,10 @@
 {
   "name": "jesusc1",
   "version": "1.0.0",
-  "description": "<h1 align=\"center\"> Jesús Cantú Jr. <img src=\"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif\" width=\"35\"></h1>",
+  "description": "Random Joke Generator Heroku app",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
