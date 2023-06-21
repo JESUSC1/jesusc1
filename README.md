@@ -34,7 +34,7 @@ I hold a Data Science Engineer Certification from The Data Incubator (2023), a M
   <a href="https://discord.gg/RQTvF3Ne" target="_blank" title="Discord">
     <img src="libraryImages/discord1.png" alt="Discord" height="35" width="35">
   </a>
-  <a href="libraryImages/Cantu_Jesus_Resume.pdf" target="_blank" title="Resume">
+  <a href="./Cantu_Jesus_Resume.pdf" target="_blank" title="Resume">
     <img src="libraryImages/resume1.png" alt="Resume" height="35" width="35">
   </a>
   <p> I write blogs to stay up-to-date with topics on computer science, data science & engineering ⌨️. Check out my <a href="https://medium.com/@jesus.cantu217" style="text-decoration: underline;"title=" Medium blog">profile</a>!</p>
