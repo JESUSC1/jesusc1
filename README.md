@@ -34,7 +34,7 @@ I hold a M.S. in Software Engineering from Loyola University-Chicago (2023) 🐺
   <a href="https://discord.gg/RQTvF3Ne" target="_blank" title="Discord">
     <img src="libraryImages/discord1.png" alt="Discord" height="35" width="35">
   </a>
-  <a href="./Cantu_Jesus_Resume.pdf" target="_blank" title="Resume">
+  <a href="./Cantu_Jesus_CV.pdf" target="_blank" title="Resume">
     <img src="libraryImages/resume1.png" alt="Resume" height="35" width="35">
   </a>
   <p> I write blogs to stay up-to-date with topics on computer science, data science & engineering ⌨️. Check out my <a href="https://medium.com/@jesus.cantu217" style="text-decoration: underline;"title=" Medium blog">profile</a>!</p>
@@ -121,7 +121,7 @@ I hold a M.S. in Software Engineering from Loyola University-Chicago (2023) 🐺
 
 Credit: [jesusc1](https://github.com/jesusc1)
 
-Last Edited on: 06/18/2023 
+Last Edited on: 03/01/2024
 
 
 
