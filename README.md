@@ -13,9 +13,10 @@
   <!-- About Me section on the right -->
   <div style="width: 300px; background-color: #f2f2f2; padding: 10px;">
     <h2 font-weight="bold">About Me :sunglasses:</h2>
-    <p>I am a results-driven Data Scientist currently based in Chicago, IL. With a strong foundation in multiple programming languages and software tools, I leverage my technical expertise and research experience to excel in data analytics and machine learning tasks. I have extensive experience in applying a wide range of techniques, including Deep Learning, Supervised Learning, Predictive Modeling, and Data Wrangling/Visualization.
+    <p>Machine Learning Engineer & Data Scientist<p>
+I bring over a decade of multidisciplinary research experience, specializing in algorithm design and implementation to address complex business and research challenges. With a strong foundation in data science, I excel in leveraging machine learning, deep learning, and statistical modeling to transform raw data into actionable insights.
 
-I hold a M.S. in Software Engineering from Loyola University-Chicago (2023) 🐺, and a B.A. in Sociology from Princeton University (2017) 🐯. I consider myself a multidisciplinary and data-driven problem solver with a passion for science, technology, and their application for the betterment of mankind.
+I hold an M.S. in Software Engineering from Loyola University Chicago (2023) 🐺 and a B.A. in Sociology from Princeton University (2017) 🐯. My unique combination of technical expertise and a sociological perspective enables me to deliver comprehensive end-to-end solutions, applying science and technology to solve impactful real-world problems.
     </p>
   </div>
 </div>
