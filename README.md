@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/fairyland0926">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Researcher;Machine%20Learning%20Engineer;Data%20Scientist;Software%20Engineer;10%2B%20years%20of%20coding%20and%20data%20analytics%20experience;Data%20for%20Social%20Good;Always%20learning%20new%20tech&font=Pacifico&center=true&width=950&height=80&color=D35400&vCenter=true&size=45&speed=120">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Researcher;Machine%20Learning%20Engineer;Data%20Scientist;Software%20Engineer;10%2B%20years%20of%20coding%20and%20data%20analytics%20experience;Providing%20ednt-to-end%20Solutions;Data%20for%20Social%20Good;Always%20learning%20new%20tech&font=Pacifico&center=true&width=950&height=80&color=D35400&vCenter=true&size=45&speed=120">
   </a>
 </p>
 
@@ -35,7 +35,7 @@ I hold an M.S. in Software Engineering from Loyola University Chicago (2023) �
   <a href="https://discord.gg/RQTvF3Ne" target="_blank" title="Discord">
     <img src="libraryImages/discord1.png" alt="Discord" height="35" width="35">
   </a>
-  <a href="./Cantu_Jesus_CV.pdf" target="_blank" title="Resume">
+  <a href="./Jesus Cantu - Resume.pdf" target="_blank" title="Resume">
     <img src="libraryImages/resume1.png" alt="Resume" height="35" width="35">
   </a>
   <p> I write blogs to stay up-to-date with topics on computer science, data science & engineering ⌨️. Check out my <a href="https://medium.com/@jesus.cantu217" style="text-decoration: underline;"title=" Medium blog">profile</a>!</p>
