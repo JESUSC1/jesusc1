@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/fairyland0926">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Researcher;Machine%20Learning%20Engineer;Data%20Scientist;Software%20Engineer;10%2B%20years%20of%20coding%20and%20data%20analytics%20experience;Providing%20ednt-to-end%20Solutions;Data%20for%20Social%20Good;Always%20learning%20new%20tech&font=Pacifico&center=true&width=950&height=80&color=D35400&vCenter=true&size=45&speed=120">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Researcher;Machine%20Learning%20Engineer;Data%20Scientist;10%2B%20years%20of%20coding%20and%20data%20analytics%20experience;Providing%20end-to-end%20Solutions;Data%20for%20Social%20Good;Always%20learning%20new%20tech&font=Pacifico&center=true&width=950&height=80&color=D35400&vCenter=true&size=45&speed=120">
   </a>
 </p>
 
