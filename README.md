@@ -89,7 +89,6 @@ I hold an M.S. in Software Engineering from Loyola University Chicago (2023) ğŸ
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-1A1A1A?logo=pandas&logoColor=150458&style=flat"></a>
 <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-1A1A1A?logo=matplotlib&logoColor=11557C&style=flat"></a>
 <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-1A1A1A?logo=seaborn&logoColor=913DBA&style=flat"></a>
-<a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
 <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R%20Studio-1A1A1A?logo=rstudio&logoColor=75AADB&style=flat"></a>
 <a href="#"><img alt="Shiny" src="https://img.shields.io/badge/Shiny-1A1A1A?logo=rstudio&logoColor=75AADB&style=flat"></a>
 <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat"></a>
@@ -98,20 +97,13 @@ I hold an M.S. in Software Engineering from Loyola University Chicago (2023) ğŸ
 <a href="https://colab.research.google.com/"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white&style=flat"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" alt="Visual Studio Badge"></a>
-<a href="https://www.eclipse.org/"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&style=flat"></a>
-<a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white&style=flat"></a>
 <a href="#"><img alt="GIS" src="https://img.shields.io/badge/GIS-35495E?logo=qgis&logoColor=white&style=flat"></a>
 </p>
 
 <h2> ğŸ§  Currently Learning</h2>
-<a href="https://github.com/"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Gitpod" src="https://img.shields.io/badge/Gitpod-1A1A1A?logo=gitpod&logoColor=1AA6E4&style=flat"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
 <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
 <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat"></a>
-<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat"></a>
 <p>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
@@ -122,7 +114,7 @@ I hold an M.S. in Software Engineering from Loyola University Chicago (2023) ğŸ
 
 Credit: [jesusc1](https://github.com/jesusc1)
 
-Last Edited on: 07/31/2024
+Last Edited on: 03/26/2026
 
 
 
