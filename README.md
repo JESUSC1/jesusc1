@@ -62,7 +62,6 @@ I hold an M.S. in Software Engineering from Loyola University Chicago (2023) ğŸ
 <a href="#"><img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1A1A1A?logo=docker&logoColor=2496ED&style=flat"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=flat"></a>
 </p>
