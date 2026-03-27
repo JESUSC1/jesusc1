@@ -32,12 +32,6 @@ I hold an M.S. in Software Engineering from Loyola University Chicago (2023) ğŸ
   <a href="https://calendly.com/jesus-cantu217" target="_blank" title="Calendly">
     <img src="libraryImages/phone.png" alt="Calendly" height="35" width="35">
   </a>
-  <a href="https://discord.gg/RQTvF3Ne" target="_blank" title="Discord">
-    <img src="libraryImages/discord1.png" alt="Discord" height="35" width="35">
-  </a>
-  <a href="./Jesus Cantu - Resume.pdf" target="_blank" title="Resume">
-    <img src="libraryImages/resume1.png" alt="Resume" height="35" width="35">
-  </a>
   <p> I write blogs to stay up-to-date with topics on computer science, data science & engineering âŒ¨ï¸. Check out my <a href="https://medium.com/@jesus.cantu217" style="text-decoration: underline;"title=" Medium blog">profile</a>!</p>
 </p>
     
@@ -50,21 +44,12 @@ I hold an M.S. in Software Engineering from Loyola University Chicago (2023) ğŸ
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="R" src="https://img.shields.io/badge/R-1A1A1A?logo=r&logoColor=276DC3&style=flat"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-<a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-<a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-1A1A1A?logo=c-sharp&logoColor=239120&style=flat"></a>
 <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a>
-<a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
 </p>
 
 <h2>ğŸ§° Big Data Technologies and Machine Learning</h2>
 
 <p>
-<a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FFCA28?logo=databricks&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-1A1A1A?logo=apache-hadoop&logoColor=DE5828&style=flat"></a>
-<a href="#"><img alt="HBase" src="https://img.shields.io/badge/HBase-1A1A1A?logo=apache-hbase&logoColor=F4B400&style=flat"></a>
-<a href="#"><img alt="Phoenix" src="https://img.shields.io/badge/Apache%20Phoenix-1A1A1A?logo=apache-phoenix&logoColor=E96228&style=flat"></a>
-<a href="#"><img alt="Hive" src="https://img.shields.io/badge/Apache%20Hive-1A1A1A?logo=apache-hive&logoColor=FDEE21&style=flat"></a>
-<a href="#"><img alt="Impala" src="https://img.shields.io/badge/Apache%20Impala-1A1A1A?logo=apache-impala&logoColor=00ACD7&style=flat"></a>
 <a href="#"><img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-1A1A1A?logo=apache-spark&logoColor=E25A1C&style=flat"></a>
 <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-1A1A1A?logo=tensorflow&logoColor=FF6F00&style=flat"></a>
 <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1A1A1A?logo=pytorch&logoColor=EE4C2C&style=flat"></a>
@@ -111,8 +96,6 @@ I hold an M.S. in Software Engineering from Loyola University Chicago (2023) ğŸ
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 </p>
 ------
-
-Credit: [jesusc1](https://github.com/jesusc1)
 
 Last Edited on: 03/26/2026
 
