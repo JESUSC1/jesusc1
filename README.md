@@ -10,18 +10,14 @@
   </a>
 </p>
 
-  <!-- About Me section on the right -->
-  <div style="width: 300px; background-color: #f2f2f2; padding: 10px;">
-    <h2 font-weight="bold">About Me :sunglasses:</h2>
-    <p>Machine Learning Engineer & Data Scientist<p>
-I bring over a decade of multidisciplinary research experience, specializing in algorithm design and implementation to address complex business and research challenges. With a strong foundation in data science, I excel in leveraging machine learning, deep learning, and statistical modeling to transform raw data into actionable insights.
+<h2 font-weight="bold">About Me :sunglasses:</h2>
+<p>
+Machine Learning Engineer & Data Scientist with over a decade of multidisciplinary research experience, specializing in algorithm design and implementation to address complex business and research challenges. With a strong foundation in data science, I excel in leveraging machine learning, deep learning, and statistical modeling to transform raw data into actionable insights.
 
 I hold an M.S. in Software Engineering from Loyola University Chicago (2023) 🐺 and a B.A. in Sociology from Princeton University (2017) 🐯. My unique combination of technical expertise and a sociological perspective enables me to deliver comprehensive end-to-end solutions, applying science and technology to solve impactful real-world problems.
-    </p>
-  </div>
-</div>
+</p>
 
-<h2 style="font-weight: bold;">Connect with me 🤝</h2>
+<h2>Connect with me 🤝</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/jesus-cantu217/" target="_blank" title="LinkedIn">
     <img src="libraryImages/linkedIn1.png" alt="LinkedIn" height="35" width="35">
@@ -32,14 +28,12 @@ I hold an M.S. in Software Engineering from Loyola University Chicago (2023) �
   <a href="https://calendly.com/jesus-cantu217" target="_blank" title="Calendly">
     <img src="libraryImages/phone.png" alt="Calendly" height="35" width="35">
   </a>
-  </a>  <p> I write blogs to stay up-to-date with topics on computer science, data science & engineering ⌨️. Check out my <a href="https://medium.com/@jesus.cantu217" style="text-decoration: underline;"title=" Medium blog">profile</a>!</p>
+  <p>I write blogs to stay up-to-date with topics on computer science, data science & engineering ⌨️. Check out my <a href="https://medium.com/@jesus.cantu217">Medium blog</a>!</p>
 </p>
-    
-</p>
-<h2 font-weight="bold">Skill Set :books:</h2>
-<!-- Heading 2 element with the text "Software Skills" -->
-<h2>👨‍💻 Programming and Markup Languages</h2>
 
+<h2>Skill Set :books:</h2>
+
+<h2>👨‍💻 Programming Languages</h2>
 <p>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="R" src="https://img.shields.io/badge/R-1A1A1A?logo=r&logoColor=276DC3&style=flat"></a>
@@ -47,42 +41,50 @@ I hold an M.S. in Software Engineering from Loyola University Chicago (2023) �
 <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a>
 </p>
 
-<h2>🧰 Big Data Technologies and Machine Learning</h2>
-
+<h2>🧰 ML & Data Science Tools</h2>
 <p>
-<a href="#"><img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-1A1A1A?logo=apache-spark&logoColor=E25A1C&style=flat"></a>
-<a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-1A1A1A?logo=tensorflow&logoColor=FF6F00&style=flat"></a>
 <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1A1A1A?logo=pytorch&logoColor=EE4C2C&style=flat"></a>
+<a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-1A1A1A?logo=tensorflow&logoColor=FF6F00&style=flat"></a>
 <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-1A1A1A?logo=scikit-learn&logoColor=F7931E&style=flat"></a>
-</p>
-
-<h2>🗄️ Databases and Cloud Computing Services</h2>
-
-<p>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-FCA121?logo=sqlalchemy&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=fff&style=flat"></a>
-</p>
-
-<h2>💻 Data Science Software and DevOps Tools</h2>
-
-<p>
-<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-1A1A1A?logo=pandas&logoColor=150458&style=flat"></a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-1A1A1A?logo=numpy&logoColor=013243&style=flat"></a>
 <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-1A1A1A?logo=matplotlib&logoColor=11557C&style=flat"></a>
-<a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-1A1A1A?logo=seaborn&logoColor=913DBA&style=flat"></a>
-<a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R%20Studio-1A1A1A?logo=rstudio&logoColor=75AADB&style=flat"></a>
-<a href="#"><img alt="Shiny" src="https://img.shields.io/badge/Shiny-1A1A1A?logo=rstudio&logoColor=75AADB&style=flat"></a>
-<a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat"></a>
+<a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-1A1A1A?logo=opencv&logoColor=5C3EE8&style=flat"></a>
+<a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-1A1A1A?logo=spacy&logoColor=09A3D5&style=flat"></a>
+<a href="#"><img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-1A1A1A?logo=apache-spark&logoColor=E25A1C&style=flat"></a>
+</p>
+
+<h2>☁️ MLOps & Cloud Technologies</h2>
+<p>
+<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="AWS SageMaker" src="https://img.shields.io/badge/SageMaker-232F3E?logo=amazon-aws&logoColor=FF9900&style=flat"></a>
+<a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1A1A1A?logo=docker&logoColor=2496ED&style=flat"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="https://colab.research.google.com/"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white&style=flat"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=flat"></a>
 </p>
 
+<h2>🗄️ Databases</h2>
+<p>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-FCA121?logo=sqlalchemy&logoColor=fff&style=flat"></a>
+</p>
+
+<h2>💻 Dev Tools & Environments</h2>
+<p>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+<a href="https://colab.research.google.com/"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white&style=flat"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R%20Studio-1A1A1A?logo=rstudio&logoColor=75AADB&style=flat"></a>
+<a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat"></a>
+</p>
+
+Last Edited on: 03/27/2026
 <h2> 🧠 Currently Learning</h2>
 
 </p>
@@ -97,7 +99,7 @@ I hold an M.S. in Software Engineering from Loyola University Chicago (2023) �
 </p>
 ------
 
-Last Edited on: 03/26/2026
+Last Edited on: 03/27/2026
 
 
 
