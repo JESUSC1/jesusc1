@@ -32,7 +32,7 @@ I hold an M.S. in Software Engineering from Loyola University Chicago (2023) �
   <a href="https://calendly.com/jesus-cantu217" target="_blank" title="Calendly">
     <img src="libraryImages/phone.png" alt="Calendly" height="35" width="35">
   </a>
-  <p> I write blogs to stay up-to-date with topics on computer science, data science & engineering ⌨️. Check out my <a href="https://medium.com/@jesus.cantu217" style="text-decoration: underline;"title=" Medium blog">profile</a>!</p>
+  </a>  <p> I write blogs to stay up-to-date with topics on computer science, data science & engineering ⌨️. Check out my <a href="https://medium.com/@jesus.cantu217" style="text-decoration: underline;"title=" Medium blog">profile</a>!</p>
 </p>
     
 </p>
